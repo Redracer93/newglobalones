@@ -30,7 +30,7 @@
         "numbro": "~2.3.2",
         "primer-tooltips": "~1.5.11",
         "topojson-client": "~3.1.0",
-        "vue": "~2.6.14",
+        "vue": "~3.0.0",
         "vue-i18n": "~8.22.2",
         "vue-mq": "~0.1.3",
         "vue-resize": "~0.4.5",
